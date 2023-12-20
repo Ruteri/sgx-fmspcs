@@ -1,1 +1,0 @@
-{"pceid": "0000", "fmspc": "90806f000000", "tcbLevels": [{"pcesvn": 11, "sgxTcbCompSvnArr": [6, 6, 2, 2, 3, 1, 0, 255, 0, 0, 0, 0, 0, 0, 0, 0], "status": 0}, {"pcesvn": 11, "sgxTcbCompSvnArr": [5, 5, 2, 2, 3, 1, 0, 255, 0, 0, 0, 0, 0, 0, 0, 0], "status": 4}, {"pcesvn": 5, "sgxTcbCompSvnArr": [5, 5, 2, 2, 3, 1, 0, 255, 0, 0, 0, 0, 0, 0, 0, 0], "status": 4}]}
